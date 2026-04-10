@@ -1,0 +1,13 @@
+# Extensiones de Excel
+*.xlsm
+*.xlsx
+*.xls
+
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
